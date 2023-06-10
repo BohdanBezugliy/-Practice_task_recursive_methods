@@ -1,0 +1,11 @@
+C:\Users\winza\source\repos\Practice_task_recursive_methods\Third_example\bin\Debug\Third_example.exe.config
+C:\Users\winza\source\repos\Practice_task_recursive_methods\Third_example\bin\Debug\Third_example.exe
+C:\Users\winza\source\repos\Practice_task_recursive_methods\Third_example\bin\Debug\Third_example.pdb
+C:\Users\winza\source\repos\Practice_task_recursive_methods\Third_example\obj\Debug\Third_example.csproj.AssemblyReference.cache
+C:\Users\winza\source\repos\Practice_task_recursive_methods\Third_example\obj\Debug\Third_example.csproj.SuggestedBindingRedirects.cache
+C:\Users\winza\source\repos\Practice_task_recursive_methods\Third_example\obj\Debug\Third_example.Form1.resources
+C:\Users\winza\source\repos\Practice_task_recursive_methods\Third_example\obj\Debug\Third_example.Properties.Resources.resources
+C:\Users\winza\source\repos\Practice_task_recursive_methods\Third_example\obj\Debug\Third_example.csproj.GenerateResource.cache
+C:\Users\winza\source\repos\Practice_task_recursive_methods\Third_example\obj\Debug\Third_example.csproj.CoreCompileInputs.cache
+C:\Users\winza\source\repos\Practice_task_recursive_methods\Third_example\obj\Debug\Third_example.exe
+C:\Users\winza\source\repos\Practice_task_recursive_methods\Third_example\obj\Debug\Third_example.pdb
